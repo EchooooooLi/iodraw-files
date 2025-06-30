@@ -358,8 +358,14 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="p51D9zUrYTqVYIjHKt1i-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p51D9zUrYTqVYIjHKt1i-1" target="p51D9zUrYTqVYIjHKt1i-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="p51D9zUrYTqVYIjHKt1i-1" value="与客户协商厂商沟通事宜" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="200" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p51D9zUrYTqVYIjHKt1i-2" value="与厂商沟通存储异常详情与产生原因" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="340" width="115" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
