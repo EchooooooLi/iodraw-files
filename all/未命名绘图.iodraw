@@ -376,7 +376,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="p51D9zUrYTqVYIjHKt1i-4" value="厂商解决方案验证" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="365" y="430" width="120" height="60" as="geometry" />
+          <mxGeometry x="365" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="p51D9zUrYTqVYIjHKt1i-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="p51D9zUrYTqVYIjHKt1i-6" target="p51D9zUrYTqVYIjHKt1i-8">
           <mxGeometry relative="1" as="geometry" />
