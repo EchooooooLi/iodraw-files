@@ -385,13 +385,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="p51D9zUrYTqVYIjHKt1i-6" value="验证成功" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="385" y="606" width="80" height="80" as="geometry" />
+          <mxGeometry x="385" y="484" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="p51D9zUrYTqVYIjHKt1i-8" value="采取与应变和回退措施" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="616" width="130" height="60" as="geometry" />
+          <mxGeometry x="520" y="494" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="p51D9zUrYTqVYIjHKt1i-10" value="恢复阶段" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="365" y="776" width="120" height="60" as="geometry" />
+          <mxGeometry x="365" y="654" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
